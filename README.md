@@ -2,7 +2,7 @@
 
 This application allows users to upload TXT or PDF files, ask questions about the content, and receive responses in the selected language. It operates offline and leverages various libraries for text processing, translation, and text-to-speech functionality.
 
-![Application Screenshot](Screenshot (31).png)  <!-- Replace with your screenshot path -->
+![Application Screenshot](Screenshot%20(31).png)  <!-- Replace with your screenshot path -->
 
 ## How It Works
 
